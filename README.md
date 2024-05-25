@@ -2,7 +2,7 @@
 2.CFG
 ![Pick](https://github.com/JaneJankoMK/SI_2024_lab2_223224/blob/master/3.CFG.png?raw=true)
 
-3.Every Branch
+4.Every Branch
 ![Pick](https://github.com/JaneJankoMK/SI_2024_lab2_223224/blob/master/4.Every%20Branch.png?raw=true)
 
 
@@ -11,6 +11,7 @@
 
 5. if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)
 == '0').
+![Pick}(https://github.com/JaneJankoMK/SI_2024_lab2_223224/blob/master/5.MCC.png?raw=true)
 
 Можни услови
 
