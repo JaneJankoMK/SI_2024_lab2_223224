@@ -2,6 +2,10 @@
 2.CFG
 ![Pick](https://github.com/JaneJankoMK/SI_2024_lab2_223224/blob/master/3.CFG.png?raw=true)
 
+3.Every Branch
+![Pick](https://github.com/JaneJankoMK/SI_2024_lab2_223224/blob/master/4.Every%20Branch.png?raw=true)
+
+
 3.Цикломатската комплексност до дадениот код е 10 со броењето на регионите сите,
 а тоа изнесува 9, и на крај се надвор од скицата е 1 регион и така имаме 10
 
