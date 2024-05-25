@@ -11,7 +11,7 @@
 
 5. if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)
 == '0').
-![Pick}(https://github.com/JaneJankoMK/SI_2024_lab2_223224/blob/master/5.MCC.png?raw=true)
+![Pick](https://github.com/JaneJankoMK/SI_2024_lab2_223224/blob/master/5.MCC.png?raw=true)
 
 Можни услови
 
